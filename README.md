@@ -1,9 +1,7 @@
-# GlobalViews Readme
-
-## Heroku URL
+## GlobalViews URL
 [Heroku Link](http://global-views2.herokuapp.com/)
 
-## Initial Setup / Workflow order
+## About the Project
 Type in the terminal in order to finish initial setup
 
 1. mkdir <your_dir_name> 
