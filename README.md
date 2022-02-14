@@ -1,32 +1,31 @@
-## GlobalViews URL
-[Heroku Link](http://global-views2.herokuapp.com/)
+# YouTube Project - GlobalViews
+## Index
+  - [Website URL](#website-url) 
+  - [Overview](#overview)
+  - [User Stories](#user-stories)
+  - [Authors](#authors)
+## Website URL
+[GlobalViews](http://global-views2.herokuapp.com/)
 
-## About the Project
-Type in the terminal in order to finish initial setup
+## Overview
+<!-- project description -->
+We aim to deliver an international youtube app that would be accessible from the browser. This app would use Google Login API to allow users to customize their experience. Users will be able to select a country and be shown trending youtube videos from that region accessed with YouTube API.
 
-1. mkdir <your_dir_name> 
-2. cd <your_dir_name>
-3. git init
-4. git remote add origin git@github.com:wliu1999/GlobalViews.git
-5. git pull origin main
+### Built With
+  - Flask
+  - Google OAuth Login API
+  - YouTube API
+  - React.js
+  - Heroku
 
-## Additional Setup Steps
+## User Stories
+<!-- user will be able to do -->
+  - Able to login with Google using OAuth flow
+  - Able to view top trends from different regions
+  - Pinning feature for personal customization
+  - Filter with different sub-categories in each region
 
-1. Create an account on Google developer
-2. Register your application with Google
-3. Obtain an API key and a OAuth 2.0 Client ID. The OAuth ID should have application type Desktop app.
-4. Create a .env folder to store hidden variables.
-5. Download the OAuth 2.0 Client ID information as a json file, and input the API key into your .env file.
-6. Create an account on Heroku and register your application there. 
-7. Provision a postgresql database on heroku
-
-After initial setup workflow order
-
-1. git checkout -b <your_branch_name>
-2. code and do things
-3. git add --all
-4. git commit -m 'comments'
-5. git push origin <your_branch_name>
-6. git checkout main
-7. git merge <your_branch_name>
-8. git branch -d <your_branch_name>
+## Authors
+  - [swlee9511](https://github.com/swlee9511) - **Sangwha Lee** - <swlee9511@gmail.com>
+  - [wliu19](https://github.com/wliu19) - **Wilbert Liu** - <wliu19@student.gsu.edu>
+  - [aamin10](https://github.com/aamin10) - **Adarsh Amin** - <aamin10@student.gsu.edu>
