@@ -5,7 +5,7 @@
   - [User Stories](#user-stories)
   - [Authors](#authors)
 ## Website URL
-[![Product Name Screen Shot][product-screenshot]](http://global-views2.herokuapp.com/)
+[![]](/GlobalViews-landing-page.png)
 [GlobalViews](http://global-views2.herokuapp.com/)
 
 ## Overview
