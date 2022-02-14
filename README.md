@@ -6,6 +6,7 @@
   - [Authors](#authors)
 ## Website URL
 [GlobalViews](http://global-views2.herokuapp.com/)
+<br>
 ![landing-page](https://raw.githubusercontent.com/swlee9511/CSC4350-Group_project-GlobalViews-/main/GlobalViews-landing-page.jpg)
 
 ## Overview
