@@ -5,7 +5,6 @@
   - [User Stories](#user-stories)
   - [Authors](#authors)
 ## Website URL
-[![]](/GlobalViews-landing-page.png)
 [GlobalViews](http://global-views2.herokuapp.com/)
 
 ## Overview
